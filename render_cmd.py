@@ -2,7 +2,7 @@ from article_summarizer import summarize_article
 import json
 import os
 import random
-import subprocess
+
 
 import datetime
 import time
