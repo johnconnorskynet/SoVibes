@@ -1,4 +1,3 @@
-from mashable_parser import mashable_parser
 
 
 class parser(object):
