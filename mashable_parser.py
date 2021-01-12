@@ -1,7 +1,7 @@
 class mashable_parser:
 
     def __init__(self):
-        pass
+        return
 
     def extract_video(self,url):
         videos = []
